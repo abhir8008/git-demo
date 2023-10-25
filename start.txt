@@ -1,1 +1,5 @@
 Test git text file
+
+To edit this file type: nano filename.extension
+
+now look below to save it ctrl+ alphabet
